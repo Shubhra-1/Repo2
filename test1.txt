@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is FCA5-1C19
+
+ Directory of C:\Users\shubh\Desktop\MyProject
+
+12-09-2023  17:30    <DIR>          .
+12-09-2023  17:23    <DIR>          ..
+12-09-2023  17:30                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  859,806,883,840 bytes free
